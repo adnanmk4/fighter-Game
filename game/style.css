@@ -1,0 +1,27 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-17.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+}
+
+.character {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  position: absolute;
+  bottom: 10px;
+}
+
+.character2 {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+
+}
